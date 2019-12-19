@@ -1,7 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Hepta+Slab:200,400,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Handlee&display=swap');
 body {
-    font-family: 'Hepta Slab', serif;
-    background-image: linear-gradient(#848181, #403e3b);
-    color: #ebebe7;
+    font-family: 'Handlee', cursive;
+    background-image: linear-gradient(#020024, #5f0979, #2600ff);
+    color: #ffffff;
     margin: 0;
+}
+a {
+    color: white;
 }
