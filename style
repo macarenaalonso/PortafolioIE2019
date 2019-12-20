@@ -3,8 +3,8 @@ body {
     font-family: 'Handlee', cursive;
     background-image: linear-gradient(#020024, #5f0979, #2600ff);
     color: #ffffff;
-    margin: 10;
-}
+    margin-left: 2em;
+    margin-top 2em;
 a {
     color: white;
 }
