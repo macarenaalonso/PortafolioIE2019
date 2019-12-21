@@ -3,6 +3,8 @@ body {
     font-family: 'Handlee', cursive;
     background-image: linear-gradient(#020024, #5f0979, #2600ff);
     color: #ffffff;
+    margin: 25px;
+    padding: 25px;
  }
  * { margin: 25px;
      padding: 25px;
