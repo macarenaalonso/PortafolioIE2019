@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Handlee&display=swap');
 body {
     font-family: 'Handlee', cursive;
-    background-image: linear-gradient(#020024, #5f0979, #2600ff);
+    background-image: linear-gradient(#020024, #5f0979);
     color: #ffffff;
  }
 
