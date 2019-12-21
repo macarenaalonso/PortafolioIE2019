@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Handlee&display=swap');
+body {
+    font-family: 'Handlee', cursive;
+    background-image: linear-gradient(#020024, #5f0979, #2600ff);
+    color: #ffffff;
+ }
+
+a {
+    color: white;
+}
+h1{
+	font-family: 'Handlee', cursive;
+    font-size: 250%;
+    /* margin-top: 50px; */
+
+    margin-left: 50;
+}
+h2{
+	font-family: 'Handlee', cursive;
+    /* margin-top: 50px; */
+
+    margin-left: 50;
+}
+h3{
+	font-family: 'Handlee', cursive;
+	/* margin-top: 50px; */
+
+	margin-left: 50;
+}
+ol{
+font-family: 'Handlee', cursive;
+    /* margin-top: 50px; */
+
+    margin-left: 50;
+}
